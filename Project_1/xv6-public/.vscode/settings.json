@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mlfq_scheduler.h": "c",
+        "stdlib.h": "c",
+        "defs.h": "c",
+        "user.h": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "proc.h": "c",
+        "cstdlib": "c",
+        "limits": "c",
+        "syscall.h": "c"
+    }
+}
