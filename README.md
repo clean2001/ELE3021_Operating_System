@@ -12,6 +12,6 @@ xv6에 여러 기능들을 추가하여 성능을 개선하는 프로젝트입�
 
 ### Wiki
 
-- [Project_1 wiki](https://titanium-chord-50f.notion.site/ELE3021_project01-7b934a6fb5aa45d2ab25542534bfc2fd?pvs=4)
-- [Project_2 wiki](https://titanium-chord-50f.notion.site/ELE3021_project02-4ec4698a523f4857b1d911a1f4f96397?pvs=4)
-- [Project_3 wiki](https://titanium-chord-50f.notion.site/ELE3021_project03_12300_2020005269-d34c3bcb4dc345e6904943d45d4b073a?pvs=4)
+- [Project_1 wiki](https://clean01.notion.site/ELE3021_project01-7b934a6fb5aa45d2ab25542534bfc2fd?pvs=4)
+- [Project_2 wiki](https://clean01.notion.site/ELE3021_project02-4ec4698a523f4857b1d911a1f4f96397?pvs=4)
+- [Project_3 wiki](https://clean01.notion.site/ELE3021_project03_12300_2020005269-d34c3bcb4dc345e6904943d45d4b073a?pvs=4)
